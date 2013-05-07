@@ -22,3 +22,13 @@ until_it_works(true) do
   setup_buggy_security_system
 end
 ```
+
+==Is It Any Good?
+
+[Yes.](https://news.ycombinator.com/item?id=3067434)
+
+==Who uses it?
+
+My current employer, SocialVibe, who graciously acknowledged I had already open sourced this. It's _in production_, as the youngsters say. Not sure why people would have large bodies of code that never go into production, but this did anyway. 
+
+Copyright, oh, man, probably me? Socialvibe? I'll have to grab timestamps from the initial commits. 
